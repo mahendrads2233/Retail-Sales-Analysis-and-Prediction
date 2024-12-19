@@ -83,7 +83,7 @@ The dataset used in this project contains information about:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Retail-Sales-Analysis-and-Prediction.git
+   git clone https://github.com/mahendrads2233/Retail-Sales-Analysis-and-Prediction.git
    cd Retail-Sales-Analysis-and-Prediction
    ```
 2. Place the raw dataset (`Enhanced_Sales_Data.csv`) in the project directory.
