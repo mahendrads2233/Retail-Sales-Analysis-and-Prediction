@@ -125,8 +125,9 @@ Contributions are welcome! If you want to contribute:
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Let me know if you'd like any modifications or need help with additional files!
+You can:
+Copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+No Rights Reserved:
+This work has been waived of all copyright rights, to the extent permitted by law.
+Disclaimer:
+The work is provided "as is," without any warranty of any kind, either expressed or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
